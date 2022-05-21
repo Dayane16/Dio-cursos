@@ -1,0 +1,27 @@
+/*body {
+    margin: 0;
+    background-image: url(/img/wave.svg);
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+}
+*/
+
+
+.quem-somos{
+    background-color: rgb(248, 191, 191);
+}
+
+.margin{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.parceiros{
+    background-color: rgb(213, 255, 253);
+}
+
+.bg-footer{
+    background-color: rgb(203, 189, 255);
+}
